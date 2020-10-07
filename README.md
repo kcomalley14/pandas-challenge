@@ -15,5 +15,5 @@ The data analyzed in this repository includes both school and student data from 
     (add chart)
 
 Two trends that can be found in the data:
-1. Schools with less than 2000 students show have much higher scores for reading and math, which also correlate to better overall passing rates than larger schools over 2000 students.
+1. Schools with less than 2000 students have much higher scores for reading and math than students attending schools above 2000 students. Smaller, more intimate schools have over a 20% increase for Overall Pass rate among math and reading.
 2. District schools also see much worse scores than charter schools. The data shows that district schools are getting more money per student than charter schools, but still have lower scores overall. So putting more money into the district schools for students doesn't seem to show a positive effect on scores.

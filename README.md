@@ -2,7 +2,9 @@
 ## PyCitySchools
 The data analyzed in this repository includes both school and student data from two smaller documents, which were able to be merged by 'school_name' into a single, updated document. By using pandas in Jupyter Notebook, I was able to create multiple dataframes that help analyze the data by different factors present:
 
-* School Summary 
+* School District Summary
+
+* Individual School Summary 
     
 * Top Performing Schools (% Overall Passing)
     
